@@ -68,7 +68,7 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 
 Various data analysis and machine learning projects showcasing problem-solving with Python.
 
-### 📊 My Activitiez
+### 📊 My Activities
 
 🔥 **65+ contributions** in the last year  
 ⭐ **Actively maintaining** and updating projects  
