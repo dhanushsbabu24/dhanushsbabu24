@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-s-babu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushsbabu24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushsbabu24)
 
 ### 👨‍💻 About Me
 
@@ -53,7 +52,7 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 
 #### 🧠 SmartTalk (NextMind)
 
-**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/dhanushsbabu24/SmartTalk_NextMind) | **Video Demo**: [YouTube Demo](https://youtu.be/your-demo-link) | **Live Demo**: [Try it here](https://your-live-demo-link.vercel.app/)
+**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/dhanushsbabu24/SmartTalk_NextMind) | **Live Demo**: [Try it here](https://your-live-demo-link.vercel.app/)
 
 **SmartTalk** - AI-integrated, real-time conversational container enhancing the NextTalk experience within the Nextcloud ecosystem. Combines smooth UI transitions, dynamic responsiveness, and real-time message synchronization. Key features:
 
